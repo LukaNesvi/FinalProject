@@ -777,6 +777,7 @@ h1 {
   color: white;
 }
 
+
 @media (max-width: 800px) {
   .search-card {
     overflow: visible;
@@ -814,6 +815,7 @@ h1 {
     height: 40px;
     text-align: center;
     line-height: 40px;
+    display: none;
   }
 
   .mobile-menu-btn {
@@ -830,6 +832,7 @@ h1 {
   .header-img {
     height: 600px;
     width: auto;
+ 
 
   }
 
